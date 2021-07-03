@@ -1,6 +1,6 @@
 {
-    "name": "yokart-vivek/library-vivek",
-    "description": "Yokart library",
+    "name": "vklib/library-vk",
+    "description": "VK library",
     "require": {
         "php": ">=7.4"
     }
