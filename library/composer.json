@@ -1,6 +1,6 @@
 {
-    "name": "yokart/core-library-test",
-    "description": "This is yokart library",
+    "name": "yokart/library",
+    "description": "Yokart library",
     "require": {
         "php": ">=7.4"
     }
